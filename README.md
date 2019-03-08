@@ -1,2 +1,0 @@
-# artihub
-Created with CodeSandbox

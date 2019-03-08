@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  height: 50px;
+  padding: 12px;
+  background: darkgrey;
+}
+
+.contents {
+  padding: 5px;
+  text-align: center;
+}
+
+footer {
+  height: 50px;
+  padding: 12px;
+  background: darkgrey;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
